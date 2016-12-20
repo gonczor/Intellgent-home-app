@@ -1,3 +1,4 @@
+// first commit Efem15
 package com.gonczor.intelligenthomeapp;
 
 import android.app.Activity;
