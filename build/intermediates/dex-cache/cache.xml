@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/f15/Desktop/IntHouse/Intelligent-home-app/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="78ae79968a689a68c9b12ea47c35f1ca80efa694">
+        <dex dex="/home/f15/Desktop/IntHouse/Intelligent-home-app/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_6c2684fb319eb27749f98b44ea5d00bb88b414c0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/f15/Desktop/IntHouse/Intelligent-home-app/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/f15/Desktop/IntHouse/Intelligent-home-app/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.0.1_f32f4d58cfc15173cfd87b15a0cdbe69f906833a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/f15/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.1/support-annotations-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="/home/f15/Desktop/IntHouse/Intelligent-home-app/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.0.1_24a5dc0a342c86b69b9d635506fbb74834096ea7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/f15/Desktop/IntHouse/Intelligent-home-app/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="/home/f15/Desktop/IntHouse/Intelligent-home-app/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_fec0204e3d5038caddec2f07e5d00f90ebe95ef0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/f15/Desktop/IntHouse/Intelligent-home-app/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="/home/f15/Desktop/IntHouse/Intelligent-home-app/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.0.1_0e1001917252313c9d6e522e8ce8f26279b117db/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/f15/Desktop/IntHouse/Intelligent-home-app/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="/home/f15/Desktop/IntHouse/Intelligent-home-app/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_0e86c5673f5db0caa5cd8ae1891b32edbf967222/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/f15/Desktop/IntHouse/Intelligent-home-app/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="/home/f15/Desktop/IntHouse/Intelligent-home-app/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.0.1_c4f91f0c29343d8b093a099c1f597efd446fef76/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/f15/Desktop/IntHouse/Intelligent-home-app/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="/home/f15/Desktop/IntHouse/Intelligent-home-app/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.0.1_ff0827baae6ee3505bfe7715bf5c65c0556f6c94/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/f15/Desktop/IntHouse/Intelligent-home-app/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/home/f15/Desktop/IntHouse/Intelligent-home-app/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_c059a12d7ae4245da7ab86109accd5535eadfad8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/f15/Desktop/IntHouse/Intelligent-home-app/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="/home/f15/Desktop/IntHouse/Intelligent-home-app/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_4c62e931c606d6e7d75d2c21fb3be4e8804c1940/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/f15/Desktop/IntHouse/Intelligent-home-app/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="/home/f15/Desktop/IntHouse/Intelligent-home-app/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.0.1_084664a357b8d860415cff407d6375c78179748d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/f15/Desktop/IntHouse/Intelligent-home-app/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="/home/f15/Desktop/IntHouse/Intelligent-home-app/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.0.1_75510f92a51e702b08d82d5172800505f0d6da27/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/f15/Desktop/IntHouse/Intelligent-home-app/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="81d0624ffe4e144e92a40f88c3bebf3379adb2dc">
+        <dex dex="/home/f15/Desktop/IntHouse/Intelligent-home-app/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_e0816cffaba63316e8a8cf320928151d629ec1ae/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/f15/Desktop/IntHouse/Intelligent-home-app/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="/home/f15/Desktop/IntHouse/Intelligent-home-app/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.0.1_0decdba95fac594da57013bc4bce6fd3a35d734f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/f15/Desktop/IntHouse/Intelligent-home-app/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="/home/f15/Desktop/IntHouse/Intelligent-home-app/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_6e74d89704a122492d28a8f350821c6388d88c18/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/f15/Desktop/IntHouse/Intelligent-home-app/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="/home/f15/Desktop/IntHouse/Intelligent-home-app/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.0.1_ee90b80b1c688c3232b7cd5cbbaa8396a0b1b078/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/f15/Desktop/IntHouse/Intelligent-home-app/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="/home/f15/Desktop/IntHouse/Intelligent-home-app/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.0.1_60df3fb9ed390980eab66857686b97e6221dfa59/classes.dex" />
+    </item>
+
+</items>
