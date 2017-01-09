@@ -7,27 +7,22 @@
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="INTELLIGENT HOME APP"
-        android:textSize="20dp"
+        android:text="Welcom to Intelligent Home App, while we haven't got any login and passwor labels, just feel free to press 'NEXT' button"
+        android:textSize="24dp"
         android:layout_margin="20dp"
         android:gravity="center"
         />
 
-    <TextView
-        android:layout_width="match_parent"
+    //my code goes here
+
+    <Button
+        android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Welcom to IntHomeApp, enter your login and password, then press button"
+        android:text="NEXT"
         android:textSize="20dp"
-        android:layout_margin="20dp"
-        android:gravity="center"
+        android:onClick="onNextClick"
         />
 
-        <Button
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:background="@drawable/forward"
-            android:onClick="onNextClick"
-            />
 
 
 </LinearLayout>

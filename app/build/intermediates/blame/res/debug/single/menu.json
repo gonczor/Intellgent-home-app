@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/home/f15/Desktop/IntHouse/Intelligent-home-app/app/build/intermediates/res/merged/debug/menu/activity_menu_drawer.xml",
+        "source": "/home/f15/Desktop/IntHouse/Intelligent-home-app/app/src/main/res/menu/activity_menu_drawer.xml"
+    },
+    {
+        "merged": "/home/f15/Desktop/IntHouse/Intelligent-home-app/app/build/intermediates/res/merged/debug/menu/activity_menu3_drawer.xml",
+        "source": "/home/f15/Desktop/IntHouse/Intelligent-home-app/app/src/main/res/menu/activity_menu3_drawer.xml"
+    },
+    {
+        "merged": "/home/f15/Desktop/IntHouse/Intelligent-home-app/app/build/intermediates/res/merged/debug/menu/activity_home_menu_drawer.xml",
+        "source": "/home/f15/Desktop/IntHouse/Intelligent-home-app/app/src/main/res/menu/activity_home_menu_drawer.xml"
+    },
+    {
+        "merged": "/home/f15/Desktop/IntHouse/Intelligent-home-app/app/build/intermediates/res/merged/debug/menu/home_menu.xml",
+        "source": "/home/f15/Desktop/IntHouse/Intelligent-home-app/app/src/main/res/menu/home_menu.xml"
+    },
+    {
+        "merged": "/home/f15/Desktop/IntHouse/Intelligent-home-app/app/build/intermediates/res/merged/debug/menu/menu.xml",
+        "source": "/home/f15/Desktop/IntHouse/Intelligent-home-app/app/src/main/res/menu/menu.xml"
+    }
+]
