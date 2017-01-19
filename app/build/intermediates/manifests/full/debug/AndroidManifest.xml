@@ -21,7 +21,7 @@
         android:theme="@style/AppTheme" >
         <activity
             android:name="com.gonczor.intelligenthomeapp.MainActivity"
-            android:label="Intelligent House App" >
+            android:label="Intelligent Home App" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
