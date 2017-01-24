@@ -5,29 +5,29 @@
     density="420dpi"
     format="8"
     plugin-version="2.2.3"
-    timestamp="1477435406175"
+    timestamp="20421355109388"
     token="-5807641106074513272"
     verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="4206" />
+        duration="2632" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="1161" />
+        duration="1055" />
     <task
         name="verifier"
-        duration="21" />
+        duration="16" />
 
     <artifact
         location="/home/f15/Desktop/IntHouse/Intelligent-home-app/app/build/outputs/apk/app-debug.apk"
         type="MAIN" />
 
     <build
-        timestamp="1477435406175"
+        timestamp="20421355109388"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="/home/f15/Desktop/IntHouse/Intelligent-home-app/app/build/outputs/apk/app-debug.apk"

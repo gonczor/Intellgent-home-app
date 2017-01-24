@@ -7,55 +7,39 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:textSize="17dp"
+        android:textSize="17sp"
         android:textStyle="bold"
-        android:text="Welcom in Intelligent House App
+        android:text="Welcome in Intelligent House App
         Please enter your login and password"
         android:gravity="center"
-        android:layout_margin="20dp"
-        />
-
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Username"
-        android:textStyle="bold"
-        android:gravity="center"
-        android:layout_margin="20dp"
+        android:layout_margin="20sp"
         />
 
     <EditText
         android:id="@+id/etUsername"
         android:layout_width="match_parent"
-        android:layout_marginBottom="10dp"
+        android:layout_marginBottom="10sp"
         android:layout_height="wrap_content"
-        />
-
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Password"
-        android:textStyle="bold"
-        android:gravity="center"
-        android:layout_margin="20dp"
+        android:hint="username"
         />
 
     <EditText
         android:id="@+id/etPassword"
         android:layout_width="match_parent"
-        android:layout_marginBottom="10dp"
+        android:layout_marginBottom="10sp"
         android:inputType="textPassword"
         android:layout_height="wrap_content"
+        android:hint="password"
         />
 
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="NEXT"
-        android:textSize="20dp"
+        android:textSize="15sp"
         android:onClick="onNextClick"
         />
 
-
+<filip></filip>
 
 </LinearLayout>
