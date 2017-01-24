@@ -1,4 +1,4 @@
-#Thu Jan 19 20:35:11 CET 2017
+#Mon Jan 23 17:12:15 CET 2017
 base.0=/home/f15/Desktop/IntHouse/Intelligent-home-app/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_e0816cffaba63316e8a8cf320928151d629ec1ae
 renamed.1=classes.dex
 renamed.0=classes2.dex
