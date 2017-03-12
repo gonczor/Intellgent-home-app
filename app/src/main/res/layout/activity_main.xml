@@ -10,8 +10,24 @@
     android:paddingTop="@dimen/activity_vertical_margin"
     tools:context="com.gonczor.intelligenthomeapp.MainActivity">
 
-    <TextView
-        android:layout_width="wrap_content"
+    <Button
+        android:id="@+id/connect_server_button"
         android:layout_height="wrap_content"
-        android:text="Hello World!" />
+        android:layout_width="wrap_content"
+        android:text="connct server"
+        android:onClick="serverConnectNow" />
+
+    <Button
+        android:id="@+id/exitApp"
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:text="exit"
+        android:onClick="exitThisApp"
+        android:layout_below="@+id/connect_server_button"
+        android:layout_alignRight="@+id/connect_server_button"
+        android:layout_alignEnd="@+id/connect_server_button"
+        android:layout_marginRight="22dp"
+        android:layout_marginEnd="22dp"
+        android:layout_marginTop="32dp" />
+
 </RelativeLayout>
